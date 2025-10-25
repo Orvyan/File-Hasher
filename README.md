@@ -15,8 +15,8 @@
 
 ### 1. Clone or extract the project
 ```bash
-git clone https://github.com/yourname/orvyan_hasher.git
-cd orvyan_hasher
+https://github.com/Orvyan/File-Hasher.git
+cd File-Hasher
 ```
 —or just extract the ZIP you received.
 
